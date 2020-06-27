@@ -1,0 +1,3 @@
+The notebook in this repo is for experiment with cleansing data and make interactive plot using Plotly [https://plotly.com/]
+
+More information coming soon...
